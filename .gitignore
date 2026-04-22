@@ -1,2 +1,9 @@
-data/
-*.log
+*
+
+!.gitignore
+!db-api.jar
+!application.properties
+!docker-compose.yml
+!README.md
+
+/data/
